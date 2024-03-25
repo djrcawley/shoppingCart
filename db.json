@@ -27,7 +27,10 @@
             "quantity": 5
         }
     ],
-    "shipping": 4.50
+    "pre-tax-total": 22,
+    "shipping": 4.50,
+    "tax": 1.50,
+    "subtotal": 28
 },
   "profile": {
     "name": "dennis"
