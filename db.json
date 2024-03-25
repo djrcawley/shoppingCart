@@ -1,5 +1,5 @@
 {
-  'items': "shopping_cart": [
+  "shopping_cart": [
     {
       "item_name": "Apples",
       "cost_per_unit": 1.50,
@@ -26,5 +26,5 @@
       "quantity": 5
     }
   ],
-  'shipping': '4.50'
+  "shipping": '4.50'
 }
