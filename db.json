@@ -1,0 +1,30 @@
+{
+  'items': "shopping_cart": [
+    {
+      "item_name": "Apples",
+      "cost_per_unit": 1.50,
+      "quantity": 3
+    },
+    {
+      "item_name": "Bread",
+      "cost_per_unit": 2.00,
+      "quantity": 2
+    },
+    {
+      "item_name": "Milk",
+      "cost_per_unit": 3.50,
+      "quantity": 1
+    },
+    {
+      "item_name": "Eggs",
+      "cost_per_unit": 2.50,
+      "quantity": 2
+    },
+    {
+      "item_name": "Potatoes",
+      "cost_per_unit": 1.00,
+      "quantity": 5
+    }
+  ],
+  'shipping': '4.50'
+}
